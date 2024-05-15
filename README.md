@@ -1,7 +1,6 @@
 # Trello.py
 
 Trello.py is a command line interface (CLI) python script to create cards for trello.com boards.
-I estimate it took around 4 hours to work on this.
 
 # Environment Variables
 
