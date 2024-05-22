@@ -31,8 +31,3 @@ python trello.py --label_names label --label_colors green --column testlist --cr
 ## Dependencies
 
 This script uses the argparse and requests modules.
-
-## Next Steps
-
-I would create unit tests for each function within the script i.e. create_card(), create_board(), etc. using the pytest module. I would also explore adding functionality to delete and move existing cards on the Trello board. Additionally, for a production environment I would look for a secure way to store the
-API keys and tokens.
